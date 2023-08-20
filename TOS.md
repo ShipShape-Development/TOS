@@ -1,6 +1,9 @@
 # Términos y Condiciones de Servicio de ShipShape Ltda.
 
 
+Versión: 2.2.d19-8-2023
+
+
 1.Los precios y honorarios descritos en el sitio web de ShipShape, cotizaciones y detalles de servicio no incluyen impuestos y se encuentran expresados en pesos chilenos a menos que se exprese de otra forma.
 
 2.El servicio de desarrollo web y/o software requiere íntegramente la colaboración del cliente para validaciones y entrega de contenidos.
