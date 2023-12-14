@@ -1,8 +1,8 @@
 # Términos y Condiciones de Servicio de ShipShape Ltda.
 
-
 Versión: 2.2.d19-8-2023
 
+ShipShape se reserva el derecho de añadir, eliminar o modificar cualquier disposición de estos términos y condiciones en cualquier momento y sin previo aviso. La no recepción de notificación de un cambio en estos términos y condiciones no invalida ese cambio. Versiones y cambios de este documento pueden verificarse en nuestro Git
 
 1.Los precios y honorarios descritos en el sitio web de ShipShape, cotizaciones y detalles de servicio no incluyen impuestos y se encuentran expresados en pesos chilenos a menos que se exprese de otra forma.
 
