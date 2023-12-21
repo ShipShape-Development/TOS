@@ -40,7 +40,7 @@ ShipShape se reserva el derecho de añadir, eliminar o modificar cualquier dispo
 
 18.Las aplicaciones de galerías fotográficas, tiendas virtuales o directorios, se limitan al desarrollo y/o implementación de los sistemas. El servicio de captura de fotos, productos o contenidos, se brinda a través de planes de soporte y mantenimiento vendidos por separado.
 
-19.El entregable por desarrollo de e-commerce (tanto web como de aplicación) incluirá un producto representativo de cada categoría designada. La responsabilidad de incorporar los restantes productos recaerá en el cliente, a menos que este adquiera el servicio de webmaster proporcionado.
+19.El entregable por desarrollo de e-commerce (tanto web como de aplicación) incluirá un producto representativo de cada categoría designada. La responsabilidad de incorporar los restantes productos recaerá en el cliente, a menos que este contrate el servicio de webmaster ofrecido.
 
 20.Variaciones en el requerimiento están sujetos a disponibilidad y podrán implicar ajustes en la cotización y en los tiempos de entrega.
 
